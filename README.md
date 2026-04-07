@@ -1,6 +1,6 @@
 <p align="center">
   <span style="font-size:32px; font-weight:bold; color:#ffffff; background-color:#4b0082; padding:15px 25px; border-radius:12px;">
-    Hey there, I’m Karl
+    Hey there, I’m Karlis
   </span>
 </p>
    
